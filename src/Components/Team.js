@@ -21,12 +21,12 @@ function Team(){
             </td>
             <td><Teamcard name="Huzaifa Chaiwala" description="Engineer" email="hchai52@gmail.com" src_img="https://i.ibb.co/pv5KYJr/Whats-App-Image-2022-01-11-at-1-31-46-AM.jpg"/></td>
 
-            <td><Teamcard name="Aishee De Sarkar" description="Engineer" email="aisheedesarkar@gmail.com" src_img="https://i.ibb.co/V33t1bk/Whats-App-Image-2022-01-11-at-1-31-43-AM.jpg" /></td>
+            <td><Teamcard name="Aishee De Sarkar" description="Engineer" email="aishee2000@gmail.com" src_img="https://i.ibb.co/V33t1bk/Whats-App-Image-2022-01-11-at-1-31-43-AM.jpg" /></td>
             </tr>
             <tr>
-            <td><Teamcard name="Syed Altmash Ashraf" description="Engineer" email="syedaltmashashraf@gmail.com" src_img="https://i.ibb.co/R9dtnMr/Whats-App-Image-2022-01-11-at-1-24-13-AM.jpg" /></td>
-            <td><Teamcard name="Kanishka" description="Engineer" email="kanishka@gmail.com" src_img="https://i.ibb.co/5WMbkr5/Whats-App-Image-2022-01-11-at-1-31-46-AM-1.jpg" /></td>
-            <td><Teamcard name="Naved Shamsi" description="Engineer" email="navedshamsi@gmail.com" src_img="https://i.ibb.co/k1vSjv1/Whats-App-Image-2022-01-11-at-1-34-55-AM.jpg" /></td>
+            <td><Teamcard name="Syed Altmash Ashraf" description="Engineer" email="altumerc@gmail.com" src_img="https://i.ibb.co/R9dtnMr/Whats-App-Image-2022-01-11-at-1-24-13-AM.jpg" /></td>
+            <td><Teamcard name="Kanishka" description="Engineer" email="kanishka0322@gmail.com" src_img="https://i.ibb.co/5WMbkr5/Whats-App-Image-2022-01-11-at-1-31-46-AM-1.jpg" /></td>
+            <td><Teamcard name="Naved Shamsi" description="Engineer" email="navedshamsi.cal@gmail.com" src_img="https://i.ibb.co/k1vSjv1/Whats-App-Image-2022-01-11-at-1-34-55-AM.jpg" /></td>
         </tr>
         </tb>
             </div>
